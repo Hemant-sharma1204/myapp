@@ -7,7 +7,7 @@ function Navbar() {
         <nav class="navbar"  >
             <a href="#" class="logo">SHOP.CO</a>
             <ul class="nav-links">
-                <li><a href="#">Home</a></li>
+                <li><a href="#">Home hemant</a></li>
                 <li><a href="#">On Sale</a></li>
                 <li><a href="#">Shop</a></li>
             </ul>
